@@ -1,0 +1,4 @@
+streamlit==1.26.0
+torch==2.5.0
+numpy==1.26.4
+helical==1.4.5
