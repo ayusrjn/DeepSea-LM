@@ -19,28 +19,28 @@ Confusion Matrix
 <img width="930" height="989" alt="condusion_matrix" src="https://github.com/user-attachments/assets/bc00a939-a73e-4e43-aa56-a0ce46642631" />
 
 ## Installation Guide
-### Clone the repository
+#### Clone the repository
 ```
 git clone https://github.com/ayusrjn/LeviDNA.git
 cd LeviDNA
 ```
 
-### Create and activate environment
+#### Create and activate environment
 ```
 python -m venv env
 source venv/bin/activate
 ```
 
-### Install required packages
+#### Install required packages
 ```
 pip install -r requirements.txt
 ```
-### Run the App
+#### Run the App
 ```
 streamlit run main.py
 ```
 
-### Our Approach
+#### Our Approach
 LeviDNA overcomes these challenges by replacing traditional alignment with a novel, sub-quadratic deep learning approach.
 
 1. HyenaDNA for Sequence Classification
